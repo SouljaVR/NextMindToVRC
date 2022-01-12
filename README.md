@@ -7,7 +7,7 @@ An alpha VRChat Mod that allows for the Next-Mind Brain Computer Interface to dr
 - Windows 10 1902+
 - [Microsoft .NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 - [Melonloader 5.x.x](https://github.com/LavaGang/MelonLoader)
-- Competent Unity knowledge. Your avatar needs to be setup with the appropriate logic to take advantage of this mod. If you dont have a supported avatar, this mod will do absolutely nothing.
+- Competent Unity knowledge. Your avatar needs to be setup with the appropriate logic to take advantage of this mod. If you dont have a supported avatar, this mod will do absolutely nothing for you.
 
 ## More Info:
 
