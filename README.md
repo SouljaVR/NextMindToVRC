@@ -9,8 +9,6 @@ An alpha VRChat Mod that allows for the Next-Mind Brain Computer Interface to dr
 - [Melonloader 5.x.x](https://github.com/LavaGang/MelonLoader)
 - Competent Unity knowledge. Your avatar needs to be setup with the appropriate logic to take advantage of this mod. If you dont have a supported avatar, this mod will do absolutely nothing.
 
-#
-
 ## More Info:
 
 (Placeholder. Currently Closed Source).
