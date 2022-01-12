@@ -3,7 +3,7 @@ An alpha VRChat Mod that allows for the Next-Mind Brain Computer Interface to dr
 
 ## Requirements:
 
-- Next-Mind BCI Dev Kit (In theory this should work with the full release version too, though I dont have my hands on one to test that.)
+- Next-Mind BCI Dev Kit (In theory this should work with the full release version too, though I don't have my hands on one to test that.)
 - Windows 10 1902+
 - [Microsoft .NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 - [Melonloader 5.x.x](https://github.com/LavaGang/MelonLoader)
